@@ -1,0 +1,2 @@
+The salary is Name : Anurag
+Salary: 5000
